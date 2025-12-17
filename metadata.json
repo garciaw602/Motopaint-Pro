@@ -1,0 +1,5 @@
+{
+  "name": "MotoPaint Pro v5",
+  "description": "Sistema de gestión para taller de pintura de motos. Control de órdenes, piezas, colores y clientes con asistencia IA.",
+  "requestFramePermissions": []
+}
