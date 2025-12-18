@@ -1,6 +1,10 @@
-<img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro1.gif" alt="GIF del juego Enruta" width="400" style="margin-bottom: 10px;">
-<img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro2.gif" alt="GIF del juego Enruta" width="400" style="margin-bottom: 10px;">
-<img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro3.gif" alt="GIF del juego Enruta" width="400" style="margin-bottom: 10px;">
+<table>
+  <tr>
+    <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro1.gif" width="300"></td>
+    <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro2.gif" width="300"></td>
+    <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro3.gif" width="300"></td>
+  </tr>
+</table>
 
 Trading Sentinel: PWA de Gestión de Riesgo y Psicología
 Trading Sentinel: PWA de Gestión de Riesgo y Psicología
