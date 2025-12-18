@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro1.gif" width="300"></td>
-    <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro2.gif" width="300"></td>
-    <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro3.gif" width="300"></td>
+    <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro1.gif" width="600"></td>
+    <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro2.gif" width="600"></td>
+    <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro3.gif" width="600"></td>
   </tr>
 </table>
 
