@@ -1,3 +1,5 @@
+
+Trading Sentinel: PWA de Gestión de Riesgo y Psicología
 <table>
   <tr>
     <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro1.gif" width="600"></td>
@@ -6,9 +8,8 @@
   </tr>
 </table>
 
-Trading Sentinel: PWA de Gestión de Riesgo y Psicología
-Trading Sentinel: PWA de Gestión de Riesgo y Psicología
-oct. 2025 - nov. 2025oct. 2025 - nov. 2025
+
+
 Este programa es una Aplicación Web Progresiva (PWA) de Gestión de Riesgo para Opciones Binarias (Trading), construida con React y TypeScript.
 
 Dirección Estratégica y Desarrollo:
