@@ -1,5 +1,7 @@
 
-Trading Sentinel: PWA de Gestión de Riesgo y Psicología
+
+MotoPaint Pro: Sistema de Gestión de Flujo de Taller con Trazabilidad Granular y Asistencia IA
+nov. 2025 - actualidadnov. 2025 - actualidad
 <table>
   <tr>
     <td><img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro1.gif" width="600"></td>
@@ -10,18 +12,21 @@ Trading Sentinel: PWA de Gestión de Riesgo y Psicología
 
 
 
-Este programa es una Aplicación Web Progresiva (PWA) de Gestión de Riesgo para Opciones Binarias (Trading), construida con React y TypeScript.
+MotoPaint Pro es una SPA diseñada para transformar la gestión de talleres de pintura de motos, eliminando el papel y garantizando trazabilidad total mediante el seguimiento individual de piezas.
 
-Dirección Estratégica y Desarrollo:
-Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Bloques". Diseñé un algoritmo híbrido que alterna automáticamente entre interés compuesto (para maximizar rachas positivas) y recuperación controlada (para mitigar pérdidas), definiendo límites estrictos de Take Profit (3.33%) y Stop Loss (3%).
+Desarrollo y Dirección del Proyecto:
 
-Arquitectura de Software: Estructuré la aplicación utilizando React 19, TypeScript y Vite. Implementé una arquitectura modular basada en Custom Hooks (useTradingLogic) para separar el motor de cálculo matemático de la interfaz visual, garantizando reactividad y precisión.
+Lógica de Negocio: Ideé el flujo operativo secuencial (Pre-alistamiento a Entrega) con control granular por pieza. Definí reglas automáticas de estados y optimización de procesos según el acabado (Mate vs. Brillante).
 
-Diseño de Producto (UX/UI): Definí una interfaz de alta prioridad con Tailwind CSS y Radix UI, centrada en la visualización de datos críticos (Stake sugerido y Capital actual). Incluí sistemas de retroalimentación visual y auditiva para reforzar la disciplina operativa del usuario.
+Arquitectura y Seguridad: Estructuré un sistema de roles y permisos (RBAC) para Administración, Recepción, Operarios y Mensajería, garantizando que cada usuario acceda solo a la información crítica para su labor.
 
-Análisis y Persistencia: Conceptualicé herramientas de journaling y análisis estadístico, incluyendo un "Heatmap" de consistencia mensual y curvas de equidad mediante Recharts. La persistencia se maneja localmente para garantizar la privacidad total de los datos financieros.
+Diseño UI/UX: Definí los requerimientos de una interfaz responsiva con Tailwind CSS, optimizada para el uso móvil de los operarios y un Dashboard con métricas en tiempo real para la gestión administrativa.
 
-Validación Técnica: Superviso la precisión de los algoritmos de cálculo para asegurar cero margen de error en operaciones con capital real, iterando constantemente sobre la usabilidad del Dashboard.
+Integración de IA: Implementé la API de Google Gemini para reportes de productividad automáticos y optimización logística de rutas. Incorporé Text-to-Speech (TTS) para briefings operativos manos libres.
+
+Control de Calidad: Supervisé la corrección de errores en lógica de permisos y servicios de almacenamiento, además de estructurar datos semilla realistas para validación y demos.
+
+Tecnologías: React, Tailwind CSS, Google Gemini API, Prompt Engineering.
 
 
 
